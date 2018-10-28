@@ -4,7 +4,7 @@ For MacOS. To add to your system:
 
 1. Clone this repository
 2. Open .bash_profile
-3. In a new line in your bash_profile, add the following line: `source <path_to_react-express-boilerplate_folder>/react-express.sh`
+3. In a new line in your bash_profile, add the following line: `source <path_to_cloned_folder>/react-express.sh`
 4. Close terminal and reopen. You can now call `react-express <project_name>` to create a new project.
 
 To open bash profile:
