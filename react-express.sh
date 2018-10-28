@@ -16,7 +16,7 @@ function react-express() {
 
         echo "Created project: $1"
         echo "To start your project:"
-        echo "npm dev"
+        echo "npm run dev"
     fi
 }
 
