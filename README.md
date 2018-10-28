@@ -11,4 +11,4 @@ To open bash profile:
 
 In terminal, run the command `open ~/.bash_profile`
 
-If it doesn't exist: `touch ~/.bash_profile`, then run the command above
+If it doesn't exist, run the command `touch ~/.bash_profile`, then run the command above again.
