@@ -1,4 +1,4 @@
-# react-express commandline installer
+# React-Express CommandLine Installer
 
 For MacOS. To add to your system:
 
